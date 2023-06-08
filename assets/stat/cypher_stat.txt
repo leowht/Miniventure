@@ -1,0 +1,6 @@
+PV 5
+ATT 3
+DEF 2
+LCK 1
+XP 1
+LVL 2
